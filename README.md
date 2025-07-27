@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi kawan Namaku Dansz 👋
+
+![mY wAIFU](img/WhatsApp%20Image%202025-06-27%20at%2015.25.08_cff8ea53.jpg)
 
 <!--
 **Dansz497/Dansz497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 saya sekarang sedang menempuh pendidikan di **Universitas Brawijaya** ...
+- 🌱 saya suka mempelajari banyak hal walaupun itu susah [**_@primsu17_**](https://www.instagram.com/primsu17?igsh=amkyMndjYjltaXlq) ...
+-
